@@ -1,0 +1,20 @@
+.container{
+    background-image: url(https://www.pixelstalk.net/wp-content/uploads/2016/11/Backgrounds-Earth-From-Space.jpg);
+    width: 1800px;
+    height: 1000px;
+    background-repeat: no-repeat;
+    
+    
+}
+.contant{
+    color:peachpuff;
+    font-size: 7ch; 
+    margin-top: 300px;
+    display: flex;
+    align-items: center;
+
+}
+.contan{
+    color: peachpuff;
+    font-size: 2ch;
+}
